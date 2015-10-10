@@ -1,0 +1,21 @@
+{
+    "name": "mkui/yii2-youzan",
+    "description": "Youzan Component  For Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","youzan"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xiao.S.L",
+            "email": "290147164@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mkui\\kdtapi\\": ""
+        }
+    }
+}
